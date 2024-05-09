@@ -8,7 +8,7 @@ public class classes1 {
     }
 
     public static String fullname (String firstname, String lastname) {
-        return "Esse é o meu nome e sobrenome: " + firstname.concat(" ").concat(lastname);
+        return "Esse é o meu nome e sobrenome: " + firstname + " " + lastname;
     }
 
 }
