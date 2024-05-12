@@ -1,4 +1,6 @@
-public class classes1 {
+package practice;
+
+public class nomeCompleto {
     public static void main (String[] args) {
         String firstname = "Alifer";
         String lastname = "Rabelo";

@@ -1,6 +1,6 @@
 package practice;
 
-public class practice {
+public class pratica1 {
     public static void main(String[] args) {
 
         int numberOne = 2;

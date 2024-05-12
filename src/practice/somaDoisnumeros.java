@@ -1,6 +1,6 @@
 package practice;
 
-public class practice2 {
+public class somaDoisnumeros {
     public static void main(String[] args) {
 
         int numberOne = 15;
