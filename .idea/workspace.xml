@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3058b569-ff09-4adf-9575-5767b6c823df" name="Changes" comment="upgrade">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/operadores1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smartTV/SmartTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smartTV/usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +53,15 @@
     "Application.classes1.executor": "Run",
     "Application.nomeCompleto.executor": "Run",
     "Application.operadores1.executor": "Run",
+    "Application.operadores2.executor": "Run",
+    "Application.operadores3.executor": "Run",
     "Application.practice.classes1.executor": "Run",
     "Application.practice.executor": "Run",
     "Application.practice2 (1).executor": "Run",
     "Application.practice2.executor": "Run",
     "Application.primeirocodigo.executor": "Run",
     "Application.teste.executor": "Run",
+    "Application.usuario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -68,20 +69,7 @@
     "onboarding.tips.debug.path": "C:/Users/lDemo/dio/java basic/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.operadores1">
-    <configuration name="boletimEstudantil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.boletimEstudantil" />
-      <module name="java basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.usuario">
     <configuration name="nomeCompleto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.nomeCompleto" />
       <module name="java basic" />
@@ -108,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeirocodigo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.primeirocodigo" />
+    <configuration name="operadores2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.operadores2" />
       <module name="java basic" />
       <extension name="coverage">
         <pattern>
@@ -121,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.teste" />
+    <configuration name="operadores3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.operadores3" />
       <module name="java basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projetos.smartTV.usuario" />
+      <module name="java basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projetos.smartTV.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.usuario" />
+        <item itemvalue="Application.operadores3" />
+        <item itemvalue="Application.operadores2" />
         <item itemvalue="Application.operadores1" />
         <item itemvalue="Application.nomeCompleto" />
-        <item itemvalue="Application.boletimEstudantil" />
-        <item itemvalue="Application.teste" />
-        <item itemvalue="Application.primeirocodigo" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +202,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715549340425</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="upgrade">
+      <option name="closed" value="true" />
+      <created>1718059936974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718059936974</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upgrade">
+      <option name="closed" value="true" />
+      <created>1718060055775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718060055775</updated>
+    </task>
+    <task id="LOCAL-00009" summary="upgrade">
+      <option name="closed" value="true" />
+      <created>1718062944834</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718062944834</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

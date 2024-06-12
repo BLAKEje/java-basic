@@ -1,5 +1,3 @@
-package smartTV;
-
 public class SmartTv {
     boolean ligada = false;
     int volume = 30;
