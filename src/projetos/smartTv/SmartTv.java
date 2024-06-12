@@ -1,4 +1,4 @@
-package smartTV;
+package projetos.smartTv;
 
 public class SmartTv {
     boolean ligada = false;

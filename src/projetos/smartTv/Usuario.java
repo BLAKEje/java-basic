@@ -1,10 +1,8 @@
-package projetos.smartTV;
+package projetos.smartTv;
 
-public class usuario {
+public class Usuario {
     public static void main(String[] args) {
-
         SmartTv smartTv = new SmartTv();
-
         System.out.println("A televisão está ligada? " + smartTv.ligada);
         System.out.println("O volume atual é: " + smartTv.volume);
         System.out.println("O canal atual é: " + smartTv.canal);
@@ -22,8 +20,6 @@ public class usuario {
         smartTv.mudarCanal(8);
         smartTv.voltarCanal();
         System.out.println("O canal atual é: " + smartTv.canal);
-
-
     }
 
 }
