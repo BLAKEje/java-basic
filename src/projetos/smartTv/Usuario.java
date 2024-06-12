@@ -13,7 +13,7 @@ public class Usuario {
         smartTv.aumentarVolume();
         System.out.println("O volume foi aumentado e atualmente está em: " + smartTv.volume);
         smartTv.diminuirVolume();
-        System.out.println("O volume foi diminuido e atualmente está em: " + smartTv.volume);
+        System.out.println("O volume foi diminuidoo e atualmente está em: " + smartTv.volume);
 
         smartTv.proximoCanal();
         System.out.println("O canal atual é: " + smartTv.canal);

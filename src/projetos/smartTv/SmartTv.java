@@ -2,7 +2,7 @@ package projetos.smartTv;
 
 public class SmartTv {
     boolean ligada = false;
-    int volume = 30;
+    int volume = 330;
     int canal = 11;
 
     public void ligar (){
