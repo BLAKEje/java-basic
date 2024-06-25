@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3058b569-ff09-4adf-9575-5767b6c823df" name="Changes" comment="upgrade" />
+    <list default="true" id="3058b569-ff09-4adf-9575-5767b6c823df" name="Changes" comment="upgrade">
+      <change afterPath="$PROJECT_DIR$/src/practice/MinhaClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetos/ContaBanco/ContaTerminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetos/ContaBanco/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projetos/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projetos/teste.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,40 +49,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Usuario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.boletimEstudantil.executor&quot;: &quot;Run&quot;,
-    &quot;Application.classes1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nomeCompleto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operadores1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operadores2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operadores3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.classes1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeirocodigo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.projetos.smartTv.Usuario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.teste.executor&quot;: &quot;Run&quot;,
-    &quot;Application.usuario.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lDemo/dio/java basic/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MinhaClasse.executor": "Run",
+    "Application.Usuario.executor": "Run",
+    "Application.boletimEstudantil.executor": "Run",
+    "Application.classes1.executor": "Run",
+    "Application.nomeCompleto.executor": "Run",
+    "Application.operadores1.executor": "Run",
+    "Application.operadores2.executor": "Run",
+    "Application.operadores3.executor": "Run",
+    "Application.practice.classes1.executor": "Run",
+    "Application.practice.executor": "Run",
+    "Application.practice2 (1).executor": "Run",
+    "Application.practice2.executor": "Run",
+    "Application.primeirocodigo.executor": "Run",
+    "Application.projetos.ContaBanco.Usuario.executor": "Run",
+    "Application.projetos.smartTv.Usuario.executor": "Run",
+    "Application.teste.executor": "Run",
+    "Application.usuario.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/lDemo/dio/java basic/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.projetos.smartTv.Usuario">
-    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Usuario" />
-      <module name="java basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="operadores2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.operadores2" />
+}]]></component>
+  <component name="RunManager" selected="Application.projetos.ContaBanco.Usuario">
+    <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.MinhaClasse" />
       <module name="java basic" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +89,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Usuario" />
+      <module name="java basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="operadores3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.operadores3" />
       <module name="java basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="projetos.ContaBanco.Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projetos.ContaBanco.Usuario" />
+      <module name="java basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projetos.ContaBanco.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,26 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="usuario" />
-      <module name="java basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.projetos.ContaBanco.Usuario" />
+        <item itemvalue="Application.MinhaClasse" />
+        <item itemvalue="Application.operadores3" />
         <item itemvalue="Application.projetos.smartTv.Usuario" />
         <item itemvalue="Application.Usuario" />
-        <item itemvalue="Application.usuario" />
-        <item itemvalue="Application.operadores3" />
-        <item itemvalue="Application.operadores2" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718151353477</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="upgrade">
+      <option name="closed" value="true" />
+      <created>1719350712255</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719350712255</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
