@@ -7,7 +7,7 @@ public class Usuario{
         Scanner scanner = new Scanner(System.in);
         ContaTerminal contaTerminal = new ContaTerminal();
 
-        System.out.println("Qual o número da sua agência?");
+        System.out.println("Qual o número da sua agencia?");
         int numeroInteiro = scanner.nextInt();
         scanner.nextLine();
 
